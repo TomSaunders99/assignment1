@@ -3,6 +3,8 @@
 
 <head>
 
+    <link href="assets/css/styles.css" rel="stylesheet" type="text/css" >
+    
     <title>Formula 1 Driver Statistics 2019</title>
     
     <meta charset="utf-8">

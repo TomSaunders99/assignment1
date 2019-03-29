@@ -39,6 +39,8 @@
     // This code runs on page load
     try {
         $connection = new PDO($dsn, $username, $password, $options);
+        
+        $success = '';
 		
         // SECOND: Create the SQL 
         $sql = "SELECT * FROM Drivers";
